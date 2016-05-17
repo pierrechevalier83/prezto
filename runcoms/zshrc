@@ -12,3 +12,5 @@ fi
 
 # Customize to your needs...
 unsetopt nomatch
+source ~/.bash_aliases
+source ~/.bash_env
